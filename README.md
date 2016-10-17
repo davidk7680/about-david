@@ -1,4 +1,4 @@
-*My name is David Kim*
+# *My name is David Kim*
 <br>
 I am in the 11th grade at telecommunications of arts and technology highschool
 <br>
