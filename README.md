@@ -1,12 +1,12 @@
 # *My name is David Kim*
 <br>
-I am in the 11th grade at telecommunications of arts and technology highschool
+## I am in the 11th grade at telecommunications of arts and technology highschool
 <br>
-My email address is davidk7680@hstat.org
+#### My email address is davidk7680@hstat.org
 <br>
-Currenntly I am on the handball team and a member of the math club and the ACC(Asian Cultural Club)
+##### Currenntly I am on the handball team and a member of the math club and the ACC(Asian Cultural Club)
 <br>
-Schedule
+###### Schedule
 1. SEP11
 2. Weight training
 3. Physics
